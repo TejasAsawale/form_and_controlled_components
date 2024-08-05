@@ -1,0 +1,37 @@
+textarea {
+    height: 100px;
+    resize: none;
+    border-radius: 6px;
+}
+
+.Survey-Container {
+    background-color: #90d7a4;
+}
+
+.SurveyButton {
+    height: 30px;
+    border-radius: 6px;
+    background-color: #4ebf6e;
+    border: none;
+}
+
+.SurveyButton:hover {
+    background-color: #22af4a;
+}
+
+.SurveyName {
+    height: 30px;
+    border-radius: 6px;
+    border: none;
+}
+
+.SurveyAge {
+    height: 30px;
+    border-radius: 6px;
+    border: none;
+}
+
+.SurveyGender {
+    height: 30px;
+    border-radius: 6px;
+}

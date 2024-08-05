@@ -1,0 +1,27 @@
+.LoginButton {
+    background-color: #4ebf6e;
+    border: none;
+    border-radius: 6px;
+    height: 30px;
+}
+
+.LoginButton:hover {
+    background-color: #22af4a;
+}
+
+.PasswordLogin {
+    border-radius: 6px;
+    height: 30px;
+    border: none;
+}
+
+.EmailLogin {
+    height: 30px;
+    border-radius: 6px;
+    border: none;
+}
+
+.Login-Container {
+    background-color: #90d7a4;
+}
+

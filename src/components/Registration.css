@@ -1,0 +1,32 @@
+.Register-Container {
+    background-color: #90d7a4;
+}
+
+.UsernameRegister {
+    height: 30px;
+    border-radius: 6px;
+    border: none;
+}
+
+.EmailRegister {
+    height: 30px;
+    border-radius: 6px;
+    border: none;
+}
+
+.PasswordRegister {
+    height: 30px;
+    border-radius: 6px;
+    border: none;
+}
+
+.RegisterButton {
+    height: 30px;
+    border-radius: 6px;
+    background-color: #4ebf6e;
+    border: none;
+}
+
+.RegisterButton:hover {
+    background-color: #22af4a;
+}
